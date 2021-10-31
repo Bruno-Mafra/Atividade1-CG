@@ -46,10 +46,10 @@ Classe principal que gerencia instâncias das demais classes. Nessa classe tamb�
 - Mudança no método que detecta colisões (agora é considerado retângulos e não círculos)
 - Método responsável por centralização de texto do ImGui
 
-<center>
+\begin{center}
 
 O resultado final ficou como a seguir:
 
 ![Imagem](https://i.imgur.com/gQNGOeT.png)
   
-</center>
+\end{center}

@@ -47,4 +47,4 @@ Classe principal que gerencia instâncias das demais classes. Nessa classe tamb�
 - Método responsável por centralização de texto do ImGui
 
 O resultado final ficou como a seguir:
-![Imagem](<blockquote class="imgur-embed-pub" lang="en" data-id="a/60hZBU0" data-context="false" ><a href="//imgur.com/a/60hZBU0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Imagem](https://i.imgur.com/gQNGOeT.png)

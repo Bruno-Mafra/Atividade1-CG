@@ -47,4 +47,4 @@ Classe principal que gerencia instâncias das demais classes. Nessa classe tamb�
 - Método responsável por centralização de texto do ImGui
 
 O resultado final ficou como a seguir:
-!https://imgur.com/a/60hZBU0
+!(https://imgur.com/a/60hZBU0)

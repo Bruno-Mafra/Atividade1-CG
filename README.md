@@ -4,7 +4,7 @@ Esse repositório contém o código-fonte de um jogo feito para a disciplina de 
 
 ## Street Cone Dodging
 
-O jogo consiste em desviar dos obstáculos (cones) com o carro e permanecer correndo na pista para obter pontos, quanto mais tempo o carro desviar maior será a pontuação. Dessa forma, o jogo só acaba quando ocorre uma colisão. Você pode jogar através da github page associada a esse repositório ou no link: https://bruno-mafra.github.io/Atividade1-CG/.
+O jogo consiste em desviar dos obstáculos (cones) com o carro e permanecer correndo na pista para obter pontos, quanto mais tempo o carro desviar maior será a pontuação. Dessa forma, o jogo só acaba quando ocorre uma colisão. Você pode jogar através da github-page associada a esse repositório ou no link: https://bruno-mafra.github.io/Atividade1-CG/.
 
 ### Como jogar
 Utilize as setas direcionais ou as teclas 'A' e 'D' para controlar o carro para esquerda e direita respectivamente. Como uma alternativa, também é possível utilizar o botão esquerdo do mouse clickando e posicionando o ponteiro na tela sobre o lado que deseja que o carrinho vá, assim é possível jogar até mesmo através de um celular que acesse o jogo pelo navegador com a opção de visualização "Versão para Desktop".
@@ -45,9 +45,19 @@ Classe principal que gerencia instâncias das demais classes. Nessa classe tamb�
 - Implementação de um contador de tempo até recomeçar o jogo
 - Mudança no método que detecta colisões (agora é considerado retângulos e não círculos)
 - Método responsável por centralização de texto do ImGui
+##
 
 O resultado final ficou como a seguir:
 
 ![Imagem](https://i.imgur.com/gQNGOeT.png)
-  
 
+Obs: Todos os desenhos dos elementos presentes na tela foram feitos utilizando o software AutoCAD 2022, principalmente para obter as coordenadas dos pontos.
+
+---
+
+Mais detalhes podem ser obtidos acessando o código-fonte.
+
+---
+
+**RA:** 11201811147                                                                                                                                                             
+**Aluno:** Bruno Francisco Rodrigues Mafra                                                                                                                                       

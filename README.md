@@ -42,7 +42,9 @@ Classe principal que gerencia instâncias das demais classes. Nessa classe tamb�
 - Lógica para a movimentação atráves do uso do mouse
 - Utilização de uma nova fonte em tamanhos e cores diferentes
 - Implementação de um contador de pontos e marcação de record
+- Implementação de um contador de tempo até recomeçar o jogo
 - Mudança no método que detecta colisões (agora é considerado retângulos e não círculos)
 - Método responsável por centralização de texto do ImGui
 
 O resultado final ficou como a seguir:
+!https://imgur.com/a/60hZBU0

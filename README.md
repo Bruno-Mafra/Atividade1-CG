@@ -14,7 +14,7 @@ Como já foi dito, o objetivo é desviar dos cones pela maior quantidade de temp
 ### Como compilar
 Para compilar o código-fonte disponibilizado nesse repositório diretamente no seu computador é necessário fazer a configuração do ambiente apresentada no inicio da disciplina e adicionar a pasta "streetconedodging" (que está na pasta 'Código-Fonte' desse repositório) no diretório examples do abcg. Também é necessário adicionar o arquivo CMakeLists.txt nesse mesmo diretório. Depois disso é so compilar no terminal para gerar o executável.
 
-## Conteudo e Técnicas utilizadas
+## Conteúdo e Técnicas utilizadas
 
 O jogo foi constrúido em cima do 'asteroids', mas basicamente tudo foi alterado/modificado. Além do openglwindow.cpp, existem novas classes nesse código responsáveis por cada elemento que aparece na tela, são elas: arvores.cpp, rua.cpp, ruamov.cpp, nuvens.cpp, carro.cpp e cones.cpp.
 
@@ -47,11 +47,13 @@ Classe principal que gerencia instâncias das demais classes. Nessa classe tamb�
 - Método responsável por centralização de texto do ImGui
 ##
 
-O resultado final ficou como a seguir:
+O resultado final ficou como a seguir:  
 
 ![Imagem](https://i.imgur.com/gQNGOeT.png)
 
-Obs: Todos os desenhos dos elementos presentes na tela foram feitos utilizando o software AutoCAD 2022, principalmente para obter as coordenadas dos pontos.
+**Obs:** Todos os desenhos dos elementos presentes na tela foram feitos utilizando o software AutoCAD 2022, principalmente para obter as coordenadas dos pontos.                                                                                                                                                                                               
+*/*       
+**Obs2:** A fonte de texto utilizada na compilação para WebAssembly (no link da web) e a do jogo quando executado no terminal é diferente por complicações relacionadas ao WebAssembly.
 
 ---
 

@@ -9,10 +9,10 @@ O jogo consiste em desviar dos obstáculos (cones) com o carro e permanecer corr
 ### Como jogar
 Utilize as setas direcionais ou as teclas 'A' e 'D' para controlar o carro para esquerda e direita respectivamente. Como uma alternativa, também é possível utilizar o botão esquerdo do mouse clickando e posicionando o ponteiro na tela sobre o lado que deseja que o carrinho vá, assim é possível jogar até mesmo através de um celular que acesse o jogo pelo navegador com a opção de visualização "Versão para Desktop".
 
-Como já foi dito, o objetivo é desviar dos cones pela maior quantidade de tempo possível, para isso vale lembrar que a colisão entre cone e carrinho é **apenas frontal**, isso significa que uma vez que o carrinho ultrapassa a frente do cone ele pode se movimentar para se sobrepor com o cone. A ideia é que o carrinho fica atrás do cone porque já o ultrapassou.   
+Como já foi dito, o objetivo é desviar dos cones pela maior quantidade de tempo possível, para isso vale lembrar que a colisão entre cone e carrinho é **apenas frontal**, isso significa que uma vez que o carrinho ultrapassa totalmente a frente do cone ele pode se movimentar para se sobrepor com o cone. A ideia é que o carrinho fica atrás do cone porque já o ultrapassou.   
   
 ### Como compilar
-Para compilar o código-fonte disponibilizado nesse repositório diretamente no seu computador é necessário fazer a configuração do ambiente apresentada no inicio da disciplina e adicionar a pasta "streetconedodging" (que está na pasta 'Código-Fonte' desse repositório) no diretório examples do abcg. Também é necessário adicionar o arquivo CMakeLists.txt nesse mesmo diretório. Depois disso é so compilar no terminal para gerar o executável.
+Para compilar o código-fonte disponibilizado nesse repositório diretamente no seu computador é necessário fazer a configuração do ambiente apresentada no início da disciplina e adicionar a pasta "streetconedodging" (que está na pasta 'Código-Fonte' desse repositório) no diretório examples do abcg. Também é necessário adicionar o arquivo CMakeLists.txt nesse mesmo diretório. Depois disso é so compilar no terminal para gerar o executável.
 
 ## Conteúdo e Técnicas utilizadas
 
